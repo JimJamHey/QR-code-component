@@ -82,13 +82,13 @@ body {
 }
 
 main {
-  max-width: 400px;
+  max-width: 410px;
 }
 
 section {
   background-color: var(--white);
-  border-radius: 1rem;
-  margin: 2rem;
+  border-radius: 1.5rem;
+  margin: 1.5rem;
 }
 
 .image-wrapper {
@@ -100,12 +100,12 @@ img {
 }
 
 h2 {
-  padding: 0 1rem;
+  padding: 0 1.5rem;
   text-align: center;
 }
 
 p {
-  padding: 1rem 2rem 2rem;
+  padding: 1rem 2.5rem 2rem;
   color: var(--grayish-blue);
   text-align: center;
 }
