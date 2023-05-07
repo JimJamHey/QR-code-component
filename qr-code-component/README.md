@@ -4,8 +4,8 @@
 
 # Code Submission
 
-![Desktop Completed Project](https://i.imgur.com/GcFZufw.png)
-![Mobile Completed Project](https://i.imgur.com/pEBuiWc.png)
+![Desktop Completed Project](https://i.imgur.com/nWPbKtP.png)
+![Mobile Completed Project](https://i.imgur.com/l5mm3Jy.png)
 
 ## Welcome! 👋
 
